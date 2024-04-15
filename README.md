@@ -1,2 +1,2 @@
 # cgi-bin
-Worked with cgi, run it using pythonserver.
+configure a http-server. run it.
